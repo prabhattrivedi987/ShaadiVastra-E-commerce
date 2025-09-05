@@ -1,0 +1,18 @@
+{
+  "name": "shadivastra",
+  "version": "1.0.0",
+  "description": "ShadiVastra is a Ecommerce plateform ",
+  "scripts": {
+    "test": "jest",
+    "start": " parcel index.html"
+  },
+  "author": "Prabhat Trivedi",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
